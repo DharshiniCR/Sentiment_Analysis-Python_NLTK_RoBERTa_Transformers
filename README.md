@@ -30,7 +30,7 @@
   - Ineffective in detecting sarcasm.
 
 ## RoBERTa (Robustly Optimized BERT)
-- **Overview**: A large language model (LLM) and a variant of BERT (Bidirectional Encoder Representations from Transformers) optimized for better performance in NLP tasks.
+- **Overview**: A language model and a variant of BERT (Bidirectional Encoder Representations from Transformers) optimized for better performance in NLP tasks.
 - **Type**: Transformer-based deep learning pretrained model.
 - **Usage**:
   - Tokenization via `AutoTokenizer.from_pretrained(model_name)` from the Huggingface `Transformers` library.
