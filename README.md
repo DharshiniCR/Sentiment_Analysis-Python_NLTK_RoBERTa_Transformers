@@ -1,5 +1,9 @@
 # Sentiment Analysis with Python: NLTK VADER, RoBERTa, and Transformers
 
+*Download the dataset 'Review.csv' using the below link*
+
+*https://www.kaggle.com/code/robikscube/sentiment-analysis-python-youtube-tutorial/input?select=Reviews.csv*
+
 ## VADER (Valence Aware Dictionary for sEntiment Reasoning)
 - **Overview**: An NLP algorithm that uses a sentiment lexicon-based approach combined with grammatical rules and syntactical conventions to return the polarity of a sentence (positive or negative).
 - **Score Range**: From -4 (most negative) to 4 (most positive).
